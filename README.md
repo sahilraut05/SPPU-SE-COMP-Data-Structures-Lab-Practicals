@@ -1,6 +1,7 @@
 # SPPU-SE-COMP-Data-Structures-Lab-Practicals
 
-This repository contains the practical codes for Data Structures Laboratory Practicals of SPPU SE Computer Engineering
+Welcome to the SPPU-SE-COMP-Data-Structures-Lab-Practicals repository! This repository contains the practical codes for the Data Structures Laboratory Practicals for the Second Year Computer Engineering students at Savitribai Phule Pune University (SPPU).
+The repository is organized into folders and files representing different practical exercises, grouped by their respective categories (Group A, B, C, D, and E).
 
 ## Practical Groups
 
